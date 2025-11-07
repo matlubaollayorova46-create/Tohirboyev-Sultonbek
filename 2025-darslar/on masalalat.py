@@ -17,3 +17,4 @@ sonlar = list(range(1, n+1))
 raqam = [s**2 for s in sonlar]
 print(raqam)
 print(f"Bunda shu javob bo'ladi : {raqam}")
+print("salom")
