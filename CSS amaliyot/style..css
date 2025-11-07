@@ -1,0 +1,33 @@
+header{
+    background-color: brown;
+    color: black;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+    font-size: medium;
+    background-color: aqua;
+}
+.header{
+    color: burlywood;
+}
+#div1{
+    color:blue;
+    background-color: aqua;
+}
+#div2{
+    color: white;
+    background-color:brown;
+}
+h2,h3,p {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+section,div, h2{
+    color: cornflowerblue;
+    background-color: crimson;
+}
+section,div > p{
+    color: chartreuse;
+}

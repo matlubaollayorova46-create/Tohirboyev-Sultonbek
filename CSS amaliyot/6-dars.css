@@ -1,0 +1,89 @@
+.div_bir{
+    color:rgb(207, 19, 213);
+}
+.div_ikki{
+    color: black;
+    padding: 50px;
+     border: 5px dashed black;
+     background-color: darksalmon;
+     border-top:15px solid rgb(245, 73, 10);
+     border-right:15px double rgb(243, 9, 99) ;
+     border-bottom: 15px dotted rgb(255, 238, 2);
+     border-left:15px double rgb(31, 13, 235);
+     border-radius: 90px;
+    
+}
+
+.div_uch{
+    color: rgb(226, 12, 226);
+} 
+.div_tort{
+    color: black;
+    padding: 50px;
+    border:5px solid red ;
+    background-color: blueviolet;
+    color:black;
+    border-top:15px solid rgb(10, 245, 96);
+    border-right:15px double rgb(61, 5, 243) ;
+    border-bottom: 15px dotted rgb(255, 238, 2);
+    border-left:15px double rgb(235, 13, 139);
+    border-radius: 100px; 
+   
+}
+.p1{
+    color: black;
+    display: inline; 
+    background-color: brown; 
+}
+.p2{
+    color: black;
+    padding: 50px;
+    border:5px solid rgb(255, 0, 0) ;
+    background-color:rgb(245, 5, 5);
+    color:black;
+    border-top:15px solid rgb(10, 245, 96);
+    border-right:15px double rgb(243, 49, 5) ;
+    border-bottom: 15px dotted rgb(2, 48, 255);
+    border-left:15px double rgb(65, 235, 13);
+}
+.p3{
+    color: black;
+    display: inline; 
+    background-color: rgb(238, 0, 135); 
+}
+.p4{
+    color: black;
+    padding: 50px;
+    border:5px solid rgb(60, 255, 0) ;
+    background-color:rgb(238, 191, 138);
+    color:black;
+    border-top:15px solid rgb(10, 155, 245);
+    border-right:15px double rgb(243, 49, 5) ;
+    border-bottom: 15px dotted rgb(251, 2, 255);
+    border-left:15px double rgb(78, 136, 230); 
+}
+.p5{
+    color: black;
+    display: inline; 
+    background-color: rgb(108, 99, 240);
+}
+.div ul li {
+   background-color: aqua; 
+    border: 5px solid red;
+    border-radius: 5px;
+
+}
+.div ul >li{
+    background-color: aqua; 
+    border: 5px solid red;
+    border-radius: 5px;
+ 
+}
+.div3{
+    background-color: blue;
+    padding: 50px;
+}
+.div_bir{
+    background: rgb(29,101,253);
+    background: linear-gradient(146deg, rgba(29,101,253,1) 35%, rgba(69,247,252,1) 54%, rgba(69,247,252,1) 58%);
+}

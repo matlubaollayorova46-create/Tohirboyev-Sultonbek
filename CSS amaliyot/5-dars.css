@@ -1,0 +1,90 @@
+.div_bir{
+    background-color:blue;
+    border: 5px dashed rgb(18, 140, 233);
+    padding: 20px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    margin-top: 0;
+}
+.div_ikki {
+    background-color:rgb(12, 172, 241);
+    border: 5px dashed rgb(25, 25, 200);
+}
+.div_bir, .div_ikki, .div_uch {
+    margin: 40px;
+}
+.div_ikki,p{
+    padding: 20px;
+    padding-left: 150px;
+}
+.div_uch{
+    background-color: brown;
+    border: 5px dashed black;
+    padding: 20px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    margin-top: 0;
+}
+p{
+    background-color: rgb(3, 67, 40);
+    color: antiquewhite;
+    padding: 50px;
+    border: 5px dashed red;
+}
+#Box_model{
+    border: 5px dashed red;
+    background-color: blueviolet;
+    padding: 50px;
+    border-top:15px solid rgb(245, 10, 10);
+    border-right:15px double rgb(243, 9, 99) ;
+    border-bottom: 15px dotted rgb(2, 255, 27);
+    border-left:15px double rgb(31, 13, 235);
+    border-radius: 90px;
+}
+#Padding{
+    color: black;
+    padding: 50px;
+     border: 5px dashed black;
+     background-color: darksalmon;
+     border-top:15px solid rgb(245, 73, 10);
+     border-right:15px double rgb(243, 9, 99) ;
+     border-bottom: 15px dotted rgb(255, 238, 2);
+     border-left:15px double rgb(31, 13, 235);
+     border-radius: 90px;
+}
+#Border{
+    color: black;
+    padding: 50px;
+    border:5px solid red ;
+    background-color: blueviolet;
+    color: rgba(17, 220, 227, 0.31);
+    border-top:15px solid rgb(10, 245, 96);
+    border-right:15px double rgb(65, 13, 235) ;
+    border-bottom: 15px dotted rgb(255, 238, 2);
+    border-left:15px double rgb(235, 13, 139);
+    border-radius: 40px;
+}
+#Margin{
+    color:black;
+    padding: 50px;
+    border:5px dashed rgb(25, 4, 4) ;
+    background-color: blueviolet;
+    color: rgba(17, 220, 227, 0.31);
+    border-top:15px solid rgb(12, 2, 83);
+    border-right:15px double rgb(244, 8, 189) ;
+    border-bottom: 15px dotted rgb(6, 255, 2);
+    border-left:15px double rgb(250, 113, 1); 
+    border-radius: 50px;
+}
+#Element{
+    color:black;
+    padding: 50px;
+    border:5px solid rgb(238, 12, 118);
+    background-color: darkseagreen;
+    border-top:15px solid rgb(238, 12, 118);
+    border-right:15px double rgb(65, 13, 235) ;
+    border-bottom: 15px dotted rgb(255, 2, 229);
+    border-left:15px double rgb(205, 235, 13);
+    border-radius: 20px;
+}
+

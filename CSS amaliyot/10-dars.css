@@ -1,0 +1,45 @@
+ .gradiend_bir{
+    background-image: linear-gradient(red, blue);
+    height: 300px;
+    width: 300px;
+}
+
+.gradiend_ikki{
+    background-image: linear-gradient(to left, blue, red);
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    display: inline-block;
+}
+.gradiend_uch{
+    background-image: linear-gradient(to top,yellow,black);
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    display: inline-block;
+    color: azure;
+}
+
+.gradiend_tort{
+    background-image:radial-gradient(yellow,blue,rgb(3, 48, 18));
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+
+}
+.hozir{
+  width: 300px;
+  height: 300px;
+  filter: blur(10px);
+}
+.asl{
+    width: 300px;
+  height: 300px;
+}
+.brightness{
+    width: 300px;
+  height: 300px;
+  filter: brightness(0.3px); 
+}

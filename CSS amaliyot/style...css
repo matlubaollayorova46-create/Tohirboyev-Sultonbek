@@ -1,0 +1,15 @@
+/*Bu kamentaria uchun*/
+/* heading 1 uchun stil berish*/
+.heading2{
+    color: blue;
+
+}
+.yashil_rang{
+    color: rgb(14, 236, 125);
+}
+.katta_farmat{
+    font-size: 50px;
+}
+.font_style{
+    font-style: italic;
+}

@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+header{
+    background-color:#89b8b8;
+    color:rgb(179, 66, 66);
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    background:  rgb(29,101,253);
+    background: linear-gradient(146deg, rgba(29,101,253,1) 35%, rgba(69,247,252,1) 54%, rgba(69,247,252,1) 58%);
+    
+
+}
+nav ul{
+    list-style:none ;
+    padding: 0;
+}
+nav ul li{
+    color: rgb(34, 122, 122);
+}
